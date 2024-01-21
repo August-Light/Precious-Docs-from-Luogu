@@ -16,3 +16,5 @@
 3. 输入代码：
 - 用户主页 Markdown 复制：`console.log(_feInstance.currentData.user.introduction)`
 - 博客 Markdown 复制：`fetch('/api/blog/detail/' + BlogGlobals.blogID).then(res => res.json()).then(res => console.log(res.data.Content))`
+
+附：Web Archive 网址 <https://web.archive.org/>
